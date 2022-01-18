@@ -3,4 +3,4 @@ FLGCNN: A novel fully convolutional neural network for end-to-end monaural speec
 
 
 
-开源模型代码
+开源模型代码（非官方复现）
