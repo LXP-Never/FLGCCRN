@@ -5,13 +5,8 @@
 
 ## 网络框架图
 
-![image-20220119165914067](C:\Users\anker\Desktop\FLGCCRN\README.assets\image-20220119165914067.png)
+![image-20220119165914067](README.assets/image-20220119165914067.png)
 
 ## 每一层的输入输出
 
-![image-20220119165954389](C:\Users\anker\Desktop\FLGCCRN\README.assets\image-20220119165954389.png)
-
-
-
-
-
+![image-20220119165954389](README.assets/image-20220119165954389.png)
